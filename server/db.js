@@ -76,5 +76,5 @@ const seedTable = async () => {
   }
 };
 
-seedTable();
-init();
+// seedTable();
+// init();

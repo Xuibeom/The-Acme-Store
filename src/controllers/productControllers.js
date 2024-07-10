@@ -1,5 +1,4 @@
 const client = require("../../server/db");
-const bcrypt = require("bcrypt");
 const uuid = require("uuid");
 
 // PRODUCTS
